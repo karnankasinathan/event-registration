@@ -27,7 +27,6 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![design (1)](https://user-images.githubusercontent.com/118787064/215305086-de1b4f84-2aa8-44a4-8c3c-267ac273e0b5.jpg)
 
-
 ## Result:
 
 Hence the UX design for the Event Registration webpage is done.
